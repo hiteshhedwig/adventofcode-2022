@@ -17,6 +17,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 
 ```
- rustc main.rs
- 
+ cargo run -- the elf_calories.txt
+
 ```
